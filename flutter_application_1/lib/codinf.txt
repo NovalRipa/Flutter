@@ -1,0 +1,11 @@
+Container(
+          margin: EdgeInsets.all(50),
+          child: Text(
+            'Ini Aplikasi Saya',
+            style: TextStyle(
+              fontSize: 20,
+              fontWeight: FontWeight.bold,
+              color: Colors.blue,
+            ),
+          ),
+        ),
